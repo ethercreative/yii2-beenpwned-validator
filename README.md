@@ -29,5 +29,6 @@ public function rules()
 Todo
 ====
 
-- [] Add option to check account
-- [] Add option to check pastes
+- [ ] Add option to check account
+- [ ] Add option to check pastes
+- [ ] Add option for `originalPasswordIsAHash`
