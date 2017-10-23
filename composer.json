@@ -1,7 +1,7 @@
 {
     "name": "ethercreative/yii2-beenpwned-validator",
     "description": "A validator to check for compromised data, through the https://haveibeenpwned.com/ API",
-    "type": "yii2, validator, model",
+    "keywords": ["yii2", "validator", "model"],
     "require": {
         "yiisoft/yii2": "*",
         "guzzlehttp/guzzle": "^6.3"
